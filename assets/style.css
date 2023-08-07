@@ -1,0 +1,20 @@
+.text
+{
+    background-color: aqua;
+    color: brown;
+}
+
+.button
+{
+    background-color: aqua;
+}
+
+.button:hover 
+{
+    background-color: chartreuse;
+}
+
+.red
+{
+    background-color: rgb(224, 143, 143);
+}
